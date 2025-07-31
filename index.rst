@@ -73,18 +73,23 @@ Frequently Asked Questions
 ---------------------------------------
 
 **Q1: Is lowes.syf.com/activate a secure site?**  
+
 Yes, it is operated by Synchrony Bank for Lowe’s card activation.
 
 **Q2: Can I activate my card by phone?**  
+
 Yes, call the number on the back of your card if you prefer not to use the website.
 
 **Q3: What if I make an error during activation?**  
+
 You can try again or contact Synchrony customer support for help.
 
 **Q4: Is an account required to activate the card?**  
+
 No, but creating one helps with ongoing management.
 
 **Q5: Are there apps for managing my card?**  
+
 Yes — use the MySynchrony app or Lowe’s app.
 
 Final Thoughts: Lowe’s Card = Big Savings
@@ -97,13 +102,7 @@ Activating your Lowe’s Credit Card through lowes.syf.com/activate is quick and
 .. raw:: html
 
     <div style="text-align:center; margin-top:30px;">
-        <a href="https://lowes.syf.com/activate" style="background-color:#28a745; color:#ffffff; padding:10px 24px; font-size:15px; font-weight:bold; text-decoration:none; border-radius:5px; margin:5px; display:inline-block;">
-            🔗 Activate Card Now
-        </a>
         <a href="https://www.lowes.com/l/Credit/consumer-credit-center.html" style="background-color:#007bff; color:#ffffff; padding:10px 24px; font-size:15px; font-weight:bold; text-decoration:none; border-radius:5px; margin:5px; display:inline-block;">
             🔗 Lowe’s Credit Center
-        </a>
-        <a href="https://www.mysynchrony.com/" style="background-color:#6c757d; color:#ffffff; padding:10px 24px; font-size:15px; font-weight:bold; text-decoration:none; border-radius:5px; margin:5px; display:inline-block;">
-            🔗 Manage Card (MySynchrony)
         </a>
     </div>
