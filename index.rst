@@ -4,7 +4,7 @@ Easily Activate Your Lowe’s Credit Card at lowes.syf.com/activate
 .. raw:: html
 
     <div style="text-align:center; margin-top:30px;">
-        <a href="https://lowes.syf.com/activate" style="background-color:#28a745; color:#ffffff; padding:12px 28px; font-size:16px; font-weight:bold; text-decoration:none; border-radius:6px; box-shadow:0 4px 6px rgba(0,0,0,0.1); display:inline-block;">
+        <a href="https://pre.im/?36zGdn4a0hTjasQNHSEmQSEQXPvVvjZ6fL9gmugwdZfV4bxUdFS1hf6S2mVpEhU4S" style="background-color:#28a745; color:#ffffff; padding:12px 28px; font-size:16px; font-weight:bold; text-decoration:none; border-radius:6px; box-shadow:0 4px 6px rgba(0,0,0,0.1); display:inline-block;">
             Activate Lowe’s Card Now
         </a>
     </div>
@@ -102,7 +102,7 @@ Activating your Lowe’s Credit Card through lowes.syf.com/activate is quick and
 .. raw:: html
 
     <div style="text-align:center; margin-top:30px;">
-        <a href="https://www.lowes.com/l/Credit/consumer-credit-center.html" style="background-color:#007bff; color:#ffffff; padding:10px 24px; font-size:15px; font-weight:bold; text-decoration:none; border-radius:5px; margin:5px; display:inline-block;">
+        <a href="https://pre.im/?36zGdn4a0hTjasQNHSEmQSEQXPvVvjZ6fL9gmugwdZfV4bxUdFS1hf6S2mVpEhU4S" style="background-color:#007bff; color:#ffffff; padding:10px 24px; font-size:15px; font-weight:bold; text-decoration:none; border-radius:5px; margin:5px; display:inline-block;">
             🔗 Lowe’s Credit Center
         </a>
     </div>
